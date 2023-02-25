@@ -1,0 +1,33 @@
+.clock-digital {
+    width: 100%;
+    max-width: 1100px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock-digital span {
+    font-size: 120px;
+    margin: 0 10px;
+}
+
+.group-timer .block-time {
+    background: rgba(65, 6, 110, 0.1);
+
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.3);
+
+    border: 1px solid rgba(65, 6, 110, 0.07);
+
+    border-right: 1px solid rgba(65, 6, 110, 0.02);
+
+    border-bottom: 1px solid rgba(35, 6, 110, 0.02);
+
+    backdrop-filter: blur(25px);
+
+    padding: 26px 24px;
+    border-radius: 5px;
+    font-size: 120px;
+    color: var(--green-alt);
+    margin: 0 -2px;
+}
