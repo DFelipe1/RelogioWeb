@@ -78,7 +78,7 @@ export function Weather() {
             <div className="locale">
                 <span id="city">{
                     weathers ?
-                        `${weathers.city.description}°`
+                        weathers.city.description
                         
                     :
                         ' '
@@ -86,7 +86,7 @@ export function Weather() {
 
                 <span id="temp">{
                     weathers ?
-                        weathers.weather.temperature
+                        `${weathers.weather.temperature}°`
                     :
                         ''
                 }</span>
