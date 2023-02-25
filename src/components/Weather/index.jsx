@@ -3,7 +3,7 @@ import { api } from '../../service';
 
 import './styles.css'
 
-import Cloud from '../../assets/cloud.svg';
+import Cloud from '../../assets/Cloud.svg';
 
 import Icon from '../../assets/';
 
