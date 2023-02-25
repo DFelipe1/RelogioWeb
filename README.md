@@ -33,7 +33,7 @@
 </p>
 
 <h1 align="center">
-    <img width="600" style="border-radius: 10px" height="auto" alt="Home" title="capa do projeto" src=".github/assets/gif_relogio.gif" />
+    <img width="600" style="border-radius: 10px" height="auto" alt="Home" title="capa do projeto" src="github/assets/RelogioWeb.png" />
 </h1>
 
 <h4 align="center">
@@ -50,7 +50,7 @@ Ele é uma APP bem simples, um relogio personalizado que mostra o clima da sua r
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
-- [ReactJS]
+- [ReactJS](https://reactjs.org)
 - [Npm](https://www.npmjs.com)
 - [VSCode](https://code.visualstudio.com)
 - [Git Bash](https://gitforwindows.org/)
