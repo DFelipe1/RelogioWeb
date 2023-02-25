@@ -33,7 +33,7 @@
 </p>
 
 <h1 align="center">
-    <img width="600" style="border-radius: 10px" height="auto" alt="Home" title="capa do projeto" src=".github/assets/Capa.png" />
+    <img width="600" style="border-radius: 10px" height="auto" alt="Home" title="capa do projeto" src=".github/assets/gif_relogio.gif" />
 </h1>
 
 <h4 align="center">
